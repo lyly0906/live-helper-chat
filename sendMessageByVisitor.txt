@@ -1,0 +1,2093 @@
+-----addUser-first-------------false-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '咯咯咯咯咯gg',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Pending chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '图5太',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Pending chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '突然若若若若若若',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Pending chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '斤斤计较军军军军军军军军军',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Pending chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '333',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '回来咯',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'kii',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '不尴尬过过过',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你们好好各个环节',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '对对对点点滴滴多多多多',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '看见看见看见就看就看',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '44444444444444444',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '一月又一月晕晕晕晕晕晕晕晕晕晕晕',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i7ii7y',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '54444444444',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'lolool',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'k8j88jj',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'uuuuuuuuuuuuuuuu',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '巴巴爸爸不不不不不不不不不不不不不不不不',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '份额鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅鹅饿饿',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.201@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'efdefe',
+  'nick' => '品牌 #92',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.204@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'asfdasdfasd',
+  'nick' => 'asdfasd #93',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.ulync.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.204@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'asdfasdf',
+  'nick' => 'asdfasd #93',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.ulync.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.94.chat@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'sdgdsgdsgdsg',
+  'nick' => 'uuuuuuuuuuuu #94',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.94.chat@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'gtgtgttgtg',
+  'nick' => 'uuuuuuuuuuuu #94',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.94.chat@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'iiiiiiii',
+  'nick' => 'uuuuuuuuuuuu #94',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello  every one is there?',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'ok  that\'s alright',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dddddd',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '额额额额额',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '99999999999999999',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dd',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'xxxxxxxxxxxxxxxxxx',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '啛啛喳喳错错错错错错错错错错错',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '5555555555555555555555',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '3333',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dd',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'xxxxxxxx',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '5555555555555555555',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'cccccccccc',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'xxxxxxxxxxx',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hhhhhhhhhhhhhh',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'kkkkkkkkkkkkkk',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'nnnnnnnnnnn',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'csdfcasd',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '777777777777777777777777777777777777',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '9999',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'ccccccccccc',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '单方事故水电费广东省',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '554153',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '很好',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'American',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'usa',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'ok  that\'s alright',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'what can i do for you?',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'ok',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'well',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.246@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'is very well',
+  'nick' => 'Visitor #111',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.257@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'good',
+  'nick' => '等等 #121',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.257@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '私は山西省にいます',
+  'nick' => '等等 #121',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.257@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => '等等 #121',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.257@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'how many times',
+  'nick' => '等等 #121',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.258@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'oooooooooooooo',
+  'nick' => 'fff #122',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?frfr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.258@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'kjkjkkj',
+  'nick' => 'fff #122',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?frfr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.258@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => 'fff #122',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?frfr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.258@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am OK',
+  'nick' => 'fff #122',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?frfr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.264@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'asdfasdf',
+  'nick' => 'ggggg #126',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.264@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => 'ggggg #126',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '对 我是',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '咦 这东西看着像一个视频',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'http://livechat.wisehub.cn/index.php/site_admin/file/downloadfile/7/f5f2d3a299d2aaac68d9ecc5e82a8123',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'http://livechat.wisehub.cn/index.php/site_admin/file/downloadfile/8/e46d71c728aca54aad52a5131ec961c1',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '[url=http://livechat.wisehub.cn/index.php/site_admin/file/downloadfile/8/e46d71c728aca54aad52a5131ec961c1]这是一个链接[/url]',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '666',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '23232323',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am in usa',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'にほんご、にっぽんご',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.270@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'Русский язык',
+  'nick' => '我是老刘 #127',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '男男女女女女女女女女女女',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '56666666666',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'http://livechat.wisehub.cn/index.php/file/downloadfile/10/92838519f0add4238321c7da7f71a587',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'what‘’s wrong with you',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am in USA',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am chinese',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i have been here from 1978',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am a programmer',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '我是一个男人。',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '日语，日语',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '今天是星期六',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '天哪',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '雨很大。',
+  'nick' => '老头子 #128',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '对对对点点滴滴',
+  'nick' => '阿什顿发斯蒂芬 #131',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => '阿什顿发斯蒂芬 #131',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.271@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '日语',
+  'nick' => '阿什顿发斯蒂芬 #131',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/index.html?gfdgdsf
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.275@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'asdfasd',
+  'nick' => '刚刚 #134',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.275@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dddddddddd',
+  'nick' => '刚刚 #134',
+  'status' => '技术部
+| cn (xian, 26)
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.278@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '1111111111111111111111',
+  'nick' => 'ddd #136',
+  'status' => '技术部
+| http://live.ok.com/index.html?Fvdsfds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dddddd',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '1111111111111111',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '322135644554546',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '我有一些问题。',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '航空自卫队',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '呵呵呵',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '你好',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '我能做什么有',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '反反复复付付付付付',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '反反复复付付付付付付付付',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.286@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '员工张',
+  'nick' => 'ddd #139',
+  'status' => '技术部
+| http://biz.wisehub.cn/?fds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'dfafsdfasd',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '222222222222',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'i am liuyue',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'hello',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '一月又一月',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '34444',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '什么是错的',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '激光除锈',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'ffffff',
+  'nick' => 'hello #141',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => 'eeeeeeeeeee',
+  'nick' => 'lpl #142',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '2222222222',
+  'nick' => 'lpl #142',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.295@biz.wisehub.cn',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '3333333',
+  'nick' => 'lpl #142',
+  'status' => '技术部
+| http://biz.wisehub.cn/?faewrfaewr
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.302@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@biz.wisehub.cn',
+  'message' => '好啊',
+  'nick' => '毒贩夫妇付付 #145',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/index.html?fdfds
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.303@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '反反复复付付付付',
+  'nick' => '阿斯蒂芬 #146',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.303@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '的11111111',
+  'nick' => '阿斯蒂芬 #146',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.303@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '2222',
+  'nick' => '阿斯蒂芬 #146',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/index.html
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fdfdfdf',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '111111111111111111',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'eeeeeeeeeeeeeeeee',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '安徽烦死哒',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'hello',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '656',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '我们',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '11111111111',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'dddddd',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'cccccccccccc',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'erererer',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '好男人',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'edsffffff',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '1',
+  'nick' => 'oldman #150',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '2',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'FFF',
+  'nick' => 'fdfdf #149',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ASDASDF',
+  'nick' => 'oldman #150',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '1',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '2',
+  'nick' => 'd #151',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 's',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ddd',
+  'nick' => 'd #151',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '111',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ddd',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.313@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'w22w2w',
+  'nick' => '3 #153',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '2',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.313@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fff',
+  'nick' => '3 #153',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.313@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '222222222222',
+  'nick' => '3 #153',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'rrrrrrrrrrrrrrrrrrr',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.313@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'eeeeee',
+  'nick' => '3 #153',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '咯咯咯咯咯gg过过过',
+  'nick' => 'd #151',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '54tt45t',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'gggg',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '1111111111',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fffffffffff',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.312@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '斯蒂芬斯蒂芬',
+  'nick' => 'd #151',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.311@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ttttttttttt',
+  'nick' => 'c #152',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.319@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '好几家军军军军军',
+  'nick' => '碘伏 #159',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.319@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'jjjjjjj',
+  'nick' => '碘伏 #159',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.319@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '密密麻麻木木木木木',
+  'nick' => '碘伏 #159',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.321@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '很好骗',
+  'nick' => '你哈 #160',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.321@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '胜多负少东方闪电',
+  'nick' => '你哈 #160',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.321@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '辅导辅导',
+  'nick' => '你哈 #160',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.321@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '你好 请问有人在么？',
+  'nick' => '你哈 #160',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.321@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'asdf',
+  'nick' => '你哈 #160',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '反反复复',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '是的发个都是法国',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '11111',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fffff',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fffffffffffffffffffffff',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '11111111111111',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'fewrrfew',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'dddddddddd',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.163.chat@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ssdsdsd',
+  'nick' => '啊发斯蒂芬 #163',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '请问你们是做什么的？',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '反反复复',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '11111111.',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '2222222222',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '对方答复',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '大大方方',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '3333',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '333333333',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '99999999999',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.327@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '565665656',
+  'nick' => 'dddddd #164',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.348@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => 'ddddd',
+  'nick' => 'ddd #168',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.349@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '你好',
+  'nick' => 'ddd #169',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.363@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '你很好',
+  'nick' => 'ww #171',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.366@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '阿三发射点发射点卡卡就减肥健身锻炼腹肌',
+  'nick' => 'qqqq #173',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)-----addUser-first-------------array (
+  'jid' => 'visitor.366@livechat.ulyncbiz.com',
+  'pass' => '397126845',
+  'host' => '117.34.80.209',
+  'operator_username' => 'admin@livechat.ulyncbiz.com',
+  'message' => '444444444444444444444444444444',
+  'nick' => 'qqqq #173',
+  'status' => '技术部
+| http://biz.ulyncbiz.com/
+| Active chat',
+)

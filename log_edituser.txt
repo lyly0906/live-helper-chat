@@ -1,0 +1,12 @@
+-----addUser-------------array (
+  'handler' => 'rpc',
+  'password' => '6722993753b7605a4e2d8479943598bf',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_password' => '397126845',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_username' => 'testxmpp',
+  'user' => '10000014',
+  'xmpp_host' => '139.224.80.158',
+)-----addUser-------------NULL-----addUser-------------NULL-----addUser-------------NULL-----addUser-------------NULL-----addUser-------------array (
+  'res' => 0,
+)

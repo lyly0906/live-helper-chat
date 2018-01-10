@@ -1,0 +1,2346 @@
+-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'oldman2028',
+  'password' => '397126845',
+  'nickname' => NULL,
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://117.34.80.209:4560',
+  'rpc_account_host' => 'vtiger.club',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'vtiger.club',
+  'group' => 'dep_3',
+  'user' => 'oldman2028@vtiger.club',
+  'name' => '人力资源部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'admin@vtiger.club',
+  1 => 'yangyu@vtiger.club',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000019',
+  'password' => '96e79218965eb72c92a549dd5a330112',
+  'nickname' => '10000019',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000019@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => 'oldman2028@139.224.80.158',
+  8 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000020',
+  'password' => '96e79218965eb72c92a549dd5a330112',
+  'nickname' => '10000020',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000020@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => 'oldman2028@139.224.80.158',
+  9 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000021',
+  'password' => '96e79218965eb72c92a549dd5a330112',
+  'nickname' => '10000021',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000021@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => 'oldman2028@139.224.80.158',
+  10 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000026',
+  'password' => '96e79218965eb72c92a549dd5a330112',
+  'nickname' => '10000026',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000026@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => 'oldman2028@139.224.80.158',
+  11 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000027',
+  'password' => '96e79218965eb72c92a549dd5a330112',
+  'nickname' => '10000027',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000027@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => 'oldman2028@139.224.80.158',
+  12 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000029',
+  'password' => '397126845',
+  'nickname' => NULL,
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => NULL,
+  'user' => '10000029@139.224.80.158',
+  'name' => NULL,
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => 'oldman2028@139.224.80.158',
+  13 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000028',
+  'password' => '397126845',
+  'nickname' => NULL,
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => NULL,
+  'user' => '10000028@139.224.80.158',
+  'name' => NULL,
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000029@139.224.80.158',
+  13 => 'oldman2028@139.224.80.158',
+  14 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------true-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000030',
+  'password' => '10000',
+  'nickname' => '10000030',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000030@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000028@139.224.80.158',
+  13 => '10000029@139.224.80.158',
+  14 => 'oldman2028@139.224.80.158',
+  15 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000031',
+  'password' => '1a8bc3083b1e62a0a862ffee76fcc658',
+  'nickname' => '10000031',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000031@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000028@139.224.80.158',
+  13 => '10000029@139.224.80.158',
+  14 => '10000030@139.224.80.158',
+  15 => 'oldman2028@139.224.80.158',
+  16 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000032',
+  'password' => '10000',
+  'nickname' => '10000032',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000032@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000028@139.224.80.158',
+  13 => '10000029@139.224.80.158',
+  14 => '10000030@139.224.80.158',
+  15 => '10000031@139.224.80.158',
+  16 => 'oldman2028@139.224.80.158',
+  17 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000033',
+  'password' => '1a8bc3083b1e62a0a862ffee76fcc658',
+  'nickname' => '10000033',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000033@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000028@139.224.80.158',
+  13 => '10000029@139.224.80.158',
+  14 => '10000030@139.224.80.158',
+  15 => '10000031@139.224.80.158',
+  16 => '10000032@139.224.80.158',
+  17 => 'oldman2028@139.224.80.158',
+  18 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000013',
+  'password' => '1a8bc3083b1e62a0a862ffee76fcc658',
+  'nickname' => '10000013',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000013@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000019@139.224.80.158',
+  8 => '10000020@139.224.80.158',
+  9 => '10000021@139.224.80.158',
+  10 => '10000026@139.224.80.158',
+  11 => '10000027@139.224.80.158',
+  12 => '10000028@139.224.80.158',
+  13 => '10000029@139.224.80.158',
+  14 => '10000030@139.224.80.158',
+  15 => '10000031@139.224.80.158',
+  16 => '10000032@139.224.80.158',
+  17 => '10000033@139.224.80.158',
+  18 => 'oldman2028@139.224.80.158',
+  19 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000014',
+  'password' => '1a8bc3083b1e62a0a862ffee76fcc658',
+  'nickname' => '10000014',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000014@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000013@139.224.80.158',
+  8 => '10000019@139.224.80.158',
+  9 => '10000020@139.224.80.158',
+  10 => '10000021@139.224.80.158',
+  11 => '10000026@139.224.80.158',
+  12 => '10000027@139.224.80.158',
+  13 => '10000028@139.224.80.158',
+  14 => '10000029@139.224.80.158',
+  15 => '10000030@139.224.80.158',
+  16 => '10000031@139.224.80.158',
+  17 => '10000032@139.224.80.158',
+  18 => '10000033@139.224.80.158',
+  19 => 'oldman2028@139.224.80.158',
+  20 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000015',
+  'password' => '1a8bc3083b1e62a0a862ffee76fcc658',
+  'nickname' => '10000015',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000015@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000013@139.224.80.158',
+  8 => '10000014@139.224.80.158',
+  9 => '10000019@139.224.80.158',
+  10 => '10000020@139.224.80.158',
+  11 => '10000021@139.224.80.158',
+  12 => '10000026@139.224.80.158',
+  13 => '10000027@139.224.80.158',
+  14 => '10000028@139.224.80.158',
+  15 => '10000029@139.224.80.158',
+  16 => '10000030@139.224.80.158',
+  17 => '10000031@139.224.80.158',
+  18 => '10000032@139.224.80.158',
+  19 => '10000033@139.224.80.158',
+  20 => 'oldman2028@139.224.80.158',
+  21 => 'oldman2029@139.224.80.158',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => '10000016',
+  'password' => 'e10adc3949ba59abbe56e057f20f883e',
+  'nickname' => '10000016',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://139.224.80.158:4560',
+  'rpc_account_host' => '139.224.80.158',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => '139.224.80.158',
+  'group' => '',
+  'user' => '10000016@139.224.80.158',
+  'name' => '',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => '10000004@139.224.80.158',
+  1 => '10000005@139.224.80.158',
+  2 => '10000006@139.224.80.158',
+  3 => '10000007@139.224.80.158',
+  4 => '10000008@139.224.80.158',
+  5 => '10000009@139.224.80.158',
+  6 => '10000010@139.224.80.158',
+  7 => '10000013@139.224.80.158',
+  8 => '10000014@139.224.80.158',
+  9 => '10000015@139.224.80.158',
+  10 => '10000019@139.224.80.158',
+  11 => '10000020@139.224.80.158',
+  12 => '10000021@139.224.80.158',
+  13 => '10000026@139.224.80.158',
+  14 => '10000027@139.224.80.158',
+  15 => '10000028@139.224.80.158',
+  16 => '10000029@139.224.80.158',
+  17 => '10000030@139.224.80.158',
+  18 => '10000031@139.224.80.158',
+  19 => '10000032@139.224.80.158',
+  20 => '10000033@139.224.80.158',
+  21 => 'oldman2028@139.224.80.158',
+  22 => 'oldman2029@139.224.80.158',
+)-------crm-----Result-------array (
+  'content' => '<h1>CRM集成配置</h1>
+<form action="" method="post" autocomplete="off">
+
+
+
+
+<div role="tabpanel">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs" role="tablist">
+			<li role="presentation" class="active"><a href="#logininformation" aria-controls="logininformation" role="tab" data-toggle="tab">登录信息</a></li>
+			<li role="presentation"><a href="#additionalsettings" aria-controls="additionalsettings" role="tab" data-toggle="tab">附加设置</a></li>
+		</ul>
+
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div role="tabpanel" class="tab-pane active" id="logininformation">
+
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMEnabled" value="on" checked="checked">&nbsp;扩展启用</label>
+				</div>
+				
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMCreateFromOffline" value="on" >&nbsp;从离线请求中自动创建潜在客户</label>
+				</div>
+				
+				<div class="form-group">
+					<label>WSDL地址</label> <input type="text" class="form-control" name="WSDLAddress" value="http://biz.wisehub.cn/webservice.php" placeholder="http://example.com/sugarcrm/soap.php" />
+				</div>
+				
+				<div class="row">
+					<div class="col-xs-6">
+						<div class="form-group">
+							<label>用户名</label> <input type="text" class="form-control" name="WSDLUsername" value="admin" placeholder="CRM用户名" />
+						</div>
+					</div>
+					<div class="col-xs-6">
+						<div class="form-group">
+						    <input style="display:none">
+							<label>密码(不显示保存一次)</label> <input type="password" class="form-control" name="WSDLPassword" value="" placeholder="CRM用户密码" />
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane" id="additionalsettings">
+				<h4>附加字段标识符映射到潜在客户字段</h4>
+				<div class="row">
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>1. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[0]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[0]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>2. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[1]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[1]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>3. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[2]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[2]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>4. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[3]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[3]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>5. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[4]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[4]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>6. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[5]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[5]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>7. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[6]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[6]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>8. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[7]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[7]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>9. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[8]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[8]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>10. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[9]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[9]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>11. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[10]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[10]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>12. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[11]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[11]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>13. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[12]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[12]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>14. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[13]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[13]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>15. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[14]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[14]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>16. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[15]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[15]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>17. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[16]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[16]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>18. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[17]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[17]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>19. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[18]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[18]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>20. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[19]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[19]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                </div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="btn-group" role="group" aria-label="...">
+		<input type="submit" class="btn btn-default" name="StoreSettings" value="保存" /> 
+	</div>
+
+</form>',
+  'path' => 
+  array (
+    0 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/index',
+      'title' => 'SugarCRM',
+    ),
+    1 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/configuration',
+      'title' => '配置',
+    ),
+  ),
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'cheryl',
+  'password' => '397126845',
+  'nickname' => ' smith',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://192.168.1.20:4560',
+  'rpc_account_host' => 'biz.wisehub.cn',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'biz.wisehub.cn',
+  'group' => 'dep_d27',
+  'user' => 'cheryl@biz.wisehub.cn',
+  'name' => '餐饮部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'clement',
+  'password' => '397126845',
+  'nickname' => ' smith',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://192.168.1.20:4560',
+  'rpc_account_host' => 'biz.wisehub.cn',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'biz.wisehub.cn',
+  'group' => 'dep_d27',
+  'user' => 'clement@biz.wisehub.cn',
+  'name' => '餐饮部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'cheryl@biz.wisehub.cn',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'darcy',
+  'password' => '397126845',
+  'nickname' => ' smith',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://192.168.1.20:4560',
+  'rpc_account_host' => 'biz.wisehub.cn',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'biz.wisehub.cn',
+  'group' => 'dep_d27',
+  'user' => 'darcy@biz.wisehub.cn',
+  'name' => '餐饮部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'cheryl@biz.wisehub.cn',
+  1 => 'clement@biz.wisehub.cn',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'dextrad',
+  'password' => '397126845',
+  'nickname' => ' smith',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://192.168.1.20:4560',
+  'rpc_account_host' => 'biz.wisehub.cn',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'biz.wisehub.cn',
+  'group' => 'dep_d27',
+  'user' => 'dextrad@biz.wisehub.cn',
+  'name' => '餐饮部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'cheryl@biz.wisehub.cn',
+  1 => 'clement@biz.wisehub.cn',
+  2 => 'darcy@biz.wisehub.cn',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'diana',
+  'password' => '397126845',
+  'nickname' => 'diana smith',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => 'http://192.168.1.20:4560',
+  'rpc_account_host' => 'biz.wisehub.cn',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'biz.wisehub.cn',
+  'group' => 'dep_d27',
+  'user' => 'diana@biz.wisehub.cn',
+  'name' => '餐饮部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'cheryl@biz.wisehub.cn',
+  1 => 'clement@biz.wisehub.cn',
+  2 => 'darcy@biz.wisehub.cn',
+  3 => 'dextrad@biz.wisehub.cn',
+)-------crm-----Result-------array (
+  'content' => '<h1>CRM集成配置</h1>
+<form action="" method="post" autocomplete="off">
+
+
+
+
+<div role="tabpanel">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs" role="tablist">
+			<li role="presentation" class="active"><a href="#logininformation" aria-controls="logininformation" role="tab" data-toggle="tab">登录信息</a></li>
+			<li role="presentation"><a href="#additionalsettings" aria-controls="additionalsettings" role="tab" data-toggle="tab">附加设置</a></li>
+		</ul>
+
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div role="tabpanel" class="tab-pane active" id="logininformation">
+
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMEnabled" value="on" checked="checked">&nbsp;扩展启用</label>
+				</div>
+				
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMCreateFromOffline" value="on" >&nbsp;从离线请求中自动创建潜在客户</label>
+				</div>
+				
+				<div class="form-group">
+					<label>WSDL地址</label> <input type="text" class="form-control" name="WSDLAddress" value="http://biz.wisehub.cn/webservice.php" placeholder="http://example.com/sugarcrm/soap.php" />
+				</div>
+				
+				<div class="row">
+					<div class="col-xs-6">
+						<div class="form-group">
+							<label>用户名</label> <input type="text" class="form-control" name="WSDLUsername" value="admin" placeholder="CRM用户名" />
+						</div>
+					</div>
+					<div class="col-xs-6">
+						<div class="form-group">
+						    <input style="display:none">
+							<label>密码(不显示保存一次)</label> <input type="password" class="form-control" name="WSDLPassword" value="" placeholder="CRM用户密码" />
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane" id="additionalsettings">
+				<h4>附加字段标识符映射到潜在客户字段</h4>
+				<div class="row">
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>1. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[0]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[0]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>2. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[1]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[1]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>3. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[2]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[2]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>4. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[3]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[3]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>5. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[4]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[4]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>6. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[5]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[5]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>7. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[6]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[6]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>8. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[7]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[7]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>9. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[8]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[8]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>10. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[9]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[9]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>11. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[10]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[10]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>12. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[11]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[11]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>13. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[12]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[12]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>14. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[13]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[13]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>15. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[14]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[14]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>16. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[15]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[15]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>17. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[16]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[16]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>18. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[17]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[17]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>19. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[18]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[18]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>20. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[19]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[19]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                </div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="btn-group" role="group" aria-label="...">
+		<input type="submit" class="btn btn-default" name="StoreSettings" value="保存" /> 
+	</div>
+
+</form>',
+  'path' => 
+  array (
+    0 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/index',
+      'title' => 'SugarCRM',
+    ),
+    1 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/configuration',
+      'title' => '配置',
+    ),
+  ),
+)-------crm-----Result-------array (
+  'content' => '<h1>CRM集成配置</h1>
+<form action="" method="post" autocomplete="off">
+
+
+	<div role="alert" class="alert alert-success alert-dismissible fade in">
+<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+</button>
+设置更新</div>
+
+
+
+<div role="tabpanel">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs" role="tablist">
+			<li role="presentation" class="active"><a href="#logininformation" aria-controls="logininformation" role="tab" data-toggle="tab">登录信息</a></li>
+			<li role="presentation"><a href="#additionalsettings" aria-controls="additionalsettings" role="tab" data-toggle="tab">附加设置</a></li>
+		</ul>
+
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div role="tabpanel" class="tab-pane active" id="logininformation">
+
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMEnabled" value="on" checked="checked">&nbsp;扩展启用</label>
+				</div>
+				
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMCreateFromOffline" value="on" >&nbsp;从离线请求中自动创建潜在客户</label>
+				</div>
+				
+				<div class="form-group">
+					<label>WSDL地址</label> <input type="text" class="form-control" name="WSDLAddress" value="http://biz.ulyncbiz.cn/webservice.php" placeholder="http://example.com/sugarcrm/soap.php" />
+				</div>
+				
+				<div class="row">
+					<div class="col-xs-6">
+						<div class="form-group">
+							<label>用户名</label> <input type="text" class="form-control" name="WSDLUsername" value="admin" placeholder="CRM用户名" />
+						</div>
+					</div>
+					<div class="col-xs-6">
+						<div class="form-group">
+						    <input style="display:none">
+							<label>密码(不显示保存一次)</label> <input type="password" class="form-control" name="WSDLPassword" value="" placeholder="CRM用户密码" />
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane" id="additionalsettings">
+				<h4>附加字段标识符映射到潜在客户字段</h4>
+				<div class="row">
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>1. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[0]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[0]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>2. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[1]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[1]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>3. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[2]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[2]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>4. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[3]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[3]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>5. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[4]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[4]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>6. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[5]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[5]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>7. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[6]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[6]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>8. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[7]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[7]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>9. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[8]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[8]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>10. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[9]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[9]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>11. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[10]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[10]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>12. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[11]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[11]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>13. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[12]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[12]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>14. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[13]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[13]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>15. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[14]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[14]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>16. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[15]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[15]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>17. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[16]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[16]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>18. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[17]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[17]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>19. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[18]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[18]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>20. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[19]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[19]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                </div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="btn-group" role="group" aria-label="...">
+		<input type="submit" class="btn btn-default" name="StoreSettings" value="保存" /> 
+	</div>
+
+</form>',
+  'path' => 
+  array (
+    0 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/index',
+      'title' => 'SugarCRM',
+    ),
+    1 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/configuration',
+      'title' => '配置',
+    ),
+  ),
+)-------crm-----Result-------array (
+  'content' => '<h1>CRM集成配置</h1>
+<form action="" method="post" autocomplete="off">
+
+
+	<div role="alert" class="alert alert-success alert-dismissible fade in">
+<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+</button>
+设置更新</div>
+
+
+
+<div role="tabpanel">
+		<!-- Nav tabs -->
+		<ul class="nav nav-tabs" role="tablist">
+			<li role="presentation" class="active"><a href="#logininformation" aria-controls="logininformation" role="tab" data-toggle="tab">登录信息</a></li>
+			<li role="presentation"><a href="#additionalsettings" aria-controls="additionalsettings" role="tab" data-toggle="tab">附加设置</a></li>
+		</ul>
+
+		<!-- Tab panes -->
+		<div class="tab-content">
+			<div role="tabpanel" class="tab-pane active" id="logininformation">
+
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMEnabled" value="on" checked="checked">&nbsp;扩展启用</label>
+				</div>
+				
+				<div class="form-group">
+					<label><input type="checkbox" name="SugarCRMCreateFromOffline" value="on" >&nbsp;从离线请求中自动创建潜在客户</label>
+				</div>
+				
+				<div class="form-group">
+					<label>WSDL地址</label> <input type="text" class="form-control" name="WSDLAddress" value="http://biz.ulyncbiz.cn/webservice.php" placeholder="http://example.com/sugarcrm/soap.php" />
+				</div>
+				
+				<div class="row">
+					<div class="col-xs-6">
+						<div class="form-group">
+							<label>用户名</label> <input type="text" class="form-control" name="WSDLUsername" value="admin" placeholder="CRM用户名" />
+						</div>
+					</div>
+					<div class="col-xs-6">
+						<div class="form-group">
+						    <input style="display:none">
+							<label>密码(不显示保存一次)</label> <input type="password" class="form-control" name="WSDLPassword" value="" placeholder="CRM用户密码" />
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div role="tabpanel" class="tab-pane" id="additionalsettings">
+				<h4>附加字段标识符映射到潜在客户字段</h4>
+				<div class="row">
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>1. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[0]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[0]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>2. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[1]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[1]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>3. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[2]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[2]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>4. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[3]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[3]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>5. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[4]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[4]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>6. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[5]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[5]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>7. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[6]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[6]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>8. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[7]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[7]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>9. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[8]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[8]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>10. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[9]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[9]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>11. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[10]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[10]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>12. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[11]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[11]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>13. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[12]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[12]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>14. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[13]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[13]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>15. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[14]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[14]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>16. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[15]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[15]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>17. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[16]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[16]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>18. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[17]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[17]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>19. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[18]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[18]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                <div class="col-xs-6">
+						<div class="form-group">
+							<div class="row">
+								<div class="col-xs-6">
+								    <label>20. 客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLHCIdentifier[19]" value="" placeholder="" />
+								</div>
+								<div class="col-xs-6">
+								    <label>CRM潜在客户字段名</label>
+									<input class="form-control" type="text" name="SugarCRMLeadField[19]" value="" placeholder="" />
+								</div>
+							</div>
+						</div>
+					</div>
+                                </div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="btn-group" role="group" aria-label="...">
+		<input type="submit" class="btn btn-default" name="StoreSettings" value="保存" /> 
+	</div>
+
+</form>',
+  'path' => 
+  array (
+    0 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/index',
+      'title' => 'SugarCRM',
+    ),
+    1 => 
+    array (
+      'url' => '/index.php/site_admin/sugarcrm/configuration',
+      'title' => '配置',
+    ),
+  ),
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+  1 => 'york@livechat.ulyncbiz.com',
+  2 => 'young@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+)-----setUserToGroup-shareRosterGroup--array (
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'fair@livechat.ulyncbiz.com',
+)-----addUser-first-------------true-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'madison',
+  'password' => '397126845',
+  'nickname' => '江卫民',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d25',
+  'user' => 'madison@livechat.ulyncbiz.com',
+  'name' => '餐饮二部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'madison1',
+  'password' => '397126845',
+  'nickname' => '江卫民',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d25',
+  'user' => 'madison1@livechat.ulyncbiz.com',
+  'name' => '餐饮二部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'madison@livechat.ulyncbiz.com',
+)-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'madeline',
+  'password' => '397126845',
+  'nickname' => '江卫东',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d26',
+  'user' => 'madeline@livechat.ulyncbiz.com',
+  'name' => '餐饮四部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+)-----2-------_POST['Name']--客服六部-----2-------Departament--erLhcoreClassModelDepartament::__set_state(array(
+   'id' => 4,
+   'name' => '客服六部',
+   'email' => '',
+   'priority' => 0,
+   'sort_priority' => 0,
+   'department_transfer_id' => 0,
+   'transfer_timeout' => 0,
+   'identifier' => '',
+   'xmpp_recipients' => '',
+   'xmpp_group_recipients' => '',
+   'mod_start_hour' => -1,
+   'mod_end_hour' => -1,
+   'tud_start_hour' => -1,
+   'tud_end_hour' => -1,
+   'wed_start_hour' => -1,
+   'wed_end_hour' => -1,
+   'thd_start_hour' => -1,
+   'thd_end_hour' => -1,
+   'frd_start_hour' => -1,
+   'frd_end_hour' => -1,
+   'sad_start_hour' => -1,
+   'sad_end_hour' => -1,
+   'sud_start_hour' => -1,
+   'sud_end_hour' => -1,
+   'inform_delay' => 0,
+   'inform_options' => '',
+   'inform_close' => 0,
+   'online_hours_active' => 0,
+   'disabled' => 0,
+   'hidden' => 0,
+   'inform_unread' => 0,
+   'inform_unread_delay' => 0,
+   'na_cb_execute' => 0,
+   'nc_cb_execute' => 0,
+   'active_balancing' => 0,
+   'max_active_chats' => 0,
+   'max_timeout_seconds' => 0,
+   'attr_int_1' => 0,
+   'attr_int_2' => 0,
+   'attr_int_3' => 0,
+   'visible_if_online' => 0,
+   'inform_close_all' => 0,
+   'inform_close_all_email' => '',
+   'pending_max' => 0,
+   'pending_group_max' => 0,
+   'active_chats_counter' => 0,
+   'pending_chats_counter' => 0,
+   'closed_chats_counter' => 0,
+   'product_configuration' => '{"products_enabled":"1","products_required":"0"}',
+   'delay_lm' => 0,
+))-----addUser-first-------------true-----addUser-first-------------true-----setUserToGroup-shareRosterGroup--array (
+)-----addUser-first-------------true-----addUser-first-------------false-----addUser-second-------------array (
+  'user' => 'wellbingo1',
+  'password' => '397126845',
+  'nickname' => 'wellbingo1',
+)-----addUser-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d27',
+  'user' => 'wellbingo1@livechat.ulyncbiz.com',
+  'name' => '客服六部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'bingo@livechat.ulyncbiz.com',
+)-----addUser-first-------------true-----addUser-first1-------------true-----addUser-first1-------------true-----addUser-first1-------------true-----addUser-first1-------------false-----addUser-second2-------------array (
+  'res' => 0,
+  'text' => 'User wellbingo5@livechat.ulyncbiz.com successfully registered',
+)-----addUser3-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d27',
+  'user' => 'wellbingo5@livechat.ulyncbiz.com',
+  'name' => '\\u5ba2\\u670d\\u516d\\u90e8',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'bingo@livechat.ulyncbiz.com',
+  1 => 'wellbingo1@livechat.ulyncbiz.com',
+)-----addUser-first1-------------false-----addUser-second2-------------array (
+  'res' => 0,
+  'text' => 'User wellbingo6@livechat.ulyncbiz.com successfully registered',
+)-----addUser3-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d27',
+  'user' => 'wellbingo6@livechat.ulyncbiz.com',
+  'name' => '客服六部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'bingo@livechat.ulyncbiz.com',
+  1 => 'wellbingo1@livechat.ulyncbiz.com',
+  2 => 'wellbingo5@livechat.ulyncbiz.com',
+)-----addUser-first1-------------false-----addUser-second2-------------array (
+  'res' => 0,
+  'text' => 'User wellbingo7@livechat.ulyncbiz.com successfully registered',
+)-----addUser3-------------array (
+  'handler' => 'rpc',
+  'rpc_server' => '180.76.184.72:4560',
+  'rpc_account_host' => 'livechat.ulyncbiz.com',
+  'rpc_username' => 'testxmpp',
+  'rpc_password' => '397126845',
+  'xmpp_host' => 'livechat.ulyncbiz.com',
+  'group' => 'dep_d27',
+  'user' => 'wellbingo7@livechat.ulyncbiz.com',
+  'name' => '客服六部',
+  'setchat' => 'add',
+)-----setUserToGroup-shareRosterGroup--array (
+  0 => 'bingo@livechat.ulyncbiz.com',
+  1 => 'wellbingo1@livechat.ulyncbiz.com',
+  2 => 'wellbingo5@livechat.ulyncbiz.com',
+  3 => 'wellbingo6@livechat.ulyncbiz.com',
+)-----2-------_POST['Name']--人事一部-----2-------Departament--erLhcoreClassModelDepartament::__set_state(array(
+   'id' => 5,
+   'name' => '人事一部',
+   'email' => '',
+   'priority' => 0,
+   'sort_priority' => 0,
+   'department_transfer_id' => 0,
+   'transfer_timeout' => 0,
+   'identifier' => '',
+   'xmpp_recipients' => '',
+   'xmpp_group_recipients' => '',
+   'mod_start_hour' => -1,
+   'mod_end_hour' => -1,
+   'tud_start_hour' => -1,
+   'tud_end_hour' => -1,
+   'wed_start_hour' => -1,
+   'wed_end_hour' => -1,
+   'thd_start_hour' => -1,
+   'thd_end_hour' => -1,
+   'frd_start_hour' => -1,
+   'frd_end_hour' => -1,
+   'sad_start_hour' => -1,
+   'sad_end_hour' => -1,
+   'sud_start_hour' => -1,
+   'sud_end_hour' => -1,
+   'inform_delay' => 0,
+   'inform_options' => '',
+   'inform_close' => 0,
+   'online_hours_active' => 0,
+   'disabled' => 0,
+   'hidden' => 0,
+   'inform_unread' => 0,
+   'inform_unread_delay' => 0,
+   'na_cb_execute' => 0,
+   'nc_cb_execute' => 0,
+   'active_balancing' => 0,
+   'max_active_chats' => 0,
+   'max_timeout_seconds' => 0,
+   'attr_int_1' => 0,
+   'attr_int_2' => 0,
+   'attr_int_3' => 0,
+   'visible_if_online' => 0,
+   'inform_close_all' => 0,
+   'inform_close_all_email' => '',
+   'pending_max' => 0,
+   'pending_group_max' => 0,
+   'active_chats_counter' => 0,
+   'pending_chats_counter' => 0,
+   'closed_chats_counter' => 0,
+   'product_configuration' => '{"products_enabled":"1","products_required":"0"}',
+   'delay_lm' => 0,
+))

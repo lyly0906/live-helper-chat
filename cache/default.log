@@ -1,0 +1,4048 @@
+Jan 10 09:54:33 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"哈哈哈","fileName":"5a5572598012a723f5b0a963","fileSize":0,"fromUserId":"10000003","fromUserName":"9987","timeSend":1515549273,"toUserId":"10000004","toUserName":"9988","type":907}
+                                    [sender] => 10005
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:38:03 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:38:03 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:38:03 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:56:51 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:56:59 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:57:21 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:57:29 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:58:39 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:58:52 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:59:10 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:59:10 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 10:59:10 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"well","fileName":"5a55817d8012a7cd417c6909","fileSize":0,"fromUserId":"10000003","fromUserName":"9987","timeSend":1515553149,"toUserId":"10000004","toUserName":"9988","type":907}
+                                    [sender] => 10005
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:08:56 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:09:23 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:09:30 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:09:53 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:10:00 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:16:42 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:16:47 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:17:01 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:17:01 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:17:01 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10005@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10005","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:17:12 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:17:17 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:22:24 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容","fromUserId":"10000","fromUserName":"系统消息","type":1,"timeSend":""}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:33:10 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:33:18 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"8b57b197-9163-4844-bbf7-2e09d988a66c","timeSend":1515555198,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:33:40 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"8b57b197-9163-4844-bbf7-2e09d988a66c","timeSend":1515555198,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:33:40 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:48:50 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:48:57 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:06 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"7e0220a1-96e1-4c70-ab33-70209e87e0dc","timeSend":1515556145,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:11 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:20 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:20 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"7e0220a1-96e1-4c70-ab33-70209e87e0dc","timeSend":1515556145,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:22 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:27 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:27 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"7e0220a1-96e1-4c70-ab33-70209e87e0dc","timeSend":1515556145,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:49:27 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"您好","fromUserName":"9988","isRead":false,"messageId":"7e0220a1-96e1-4c70-ab33-70209e87e0dc","timeSend":1515556145,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000004@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000004","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容111","fileSize":0,"fromUserId":"10000","fromUserName":"系统消息","timeSend":1515483986,"type":1}
+                                    [sender] => 10000
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容","fileSize":0,"fromUserId":"10000","fromUserName":"系统消息","timeSend":1515484018,"type":1}
+                                    [sender] => 10000
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容","fileSize":0,"fromUserId":"10000","fromUserName":"系统消息","timeSend":1515484063,"type":1}
+                                    [sender] => 10000
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容","fileSize":0,"fromUserId":"10000","fromUserName":"系统消息","timeSend":1515484649,"type":1}
+                                    [sender] => 10000
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"推送内容","fileSize":0,"fromUserId":"10000","fromUserName":"系统消息","timeSend":1515484895,"type":1}
+                                    [sender] => 10000
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"哈哈哈","fileName":"5a5572598012a723f5b0a963","fileSize":0,"fromUserId":"10000003","fromUserName":"9987","timeSend":1515549273,"toUserId":"10000004","toUserName":"9988","type":907}
+                                    [sender] => 10005
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:26 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"well","fileName":"5a55817d8012a7cd417c6909","fileSize":0,"fromUserId":"10000003","fromUserName":"9987","timeSend":1515553149,"toUserId":"10000004","toUserName":"9988","type":907}
+                                    [sender] => 10005
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:41 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"messageId":"1eb4e6380f20461d863d74dfcf61b74a","fromUserId":"10000004","fromUserName":"9988","content":"dddd","timeSend":1515556434,"type":1,"isEncrypt":0,"isReadDel":0,"isRead":false}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:50:41 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"messageId":"aea36e51291e4da6a39edb8aad2beeee","fromUserId":"10000003","fromUserName":"9987","content":"1eb4e6380f20461d863d74dfcf61b74a","timeSend":1515556434,"type":26,"isEncrypt":0,"isReadDel":0,"isRead":false}
+                                    [sender] => 10000003
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:57:12 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000004@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000004","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:57:42 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"请及时处理订单","fromUserName":"9988","isRead":false,"messageId":"57b8be93-2113-4a12-9253-0822c17838ca","timeSend":1515556662,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 11:58:34 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"messageId":"d2db641323234879a64ec0fb4ffa2690","fromUserId":"10000003","fromUserName":"9987","content":"57b8be93-2113-4a12-9253-0822c17838ca","timeSend":1515556908,"type":26,"isEncrypt":0,"isReadDel":0,"isRead":false}
+                                    [sender] => 10000003
+                                    [receiver] => 10000004
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:53:41 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:53:48 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"请及时处理订单！","fromUserName":"9988","isRead":false,"messageId":"4bff5207-df85-4bb9-80b4-5718290ff60b","timeSend":1515570828,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:53:52 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:54:02 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"connect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:54:11 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not find LHC user by user - 10000003@livechat.ulyncbiz.com
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 2049
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                    [line] => 1
+                    [function] => handleOperatorPing
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => {"action":"disconnect","user":"10000003","server":"livechat.ulyncbiz.com"}
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/159fb73e6054e79a44baefcd97361f77.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
+Jan 10 15:54:11 [Warning] [default] [default] Exception Object
+(
+    [message:protected] => Could not extract visitor ID
+    [string:Exception:private] => 
+    [code:protected] => 0
+    [file:protected] => /home/wwwroot/bizlivechat/extension/xmppservice/classes/erlhcoreclassxmppservicehandler.php
+    [line:protected] => 1992
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                    [line] => 1
+                    [function] => handleMessageFromOperator
+                    [class] => erLhcoreClassExtensionXmppserviceHandler
+                    [type] => ::
+                    [args] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [body] => {"content":"请及时处理订单！","fromUserName":"9988","isRead":false,"messageId":"4bff5207-df85-4bb9-80b4-5718290ff60b","timeSend":1515570828,"type":1}
+                                    [sender] => 10000004
+                                    [receiver] => 10000003
+                                    [server] => livechat.ulyncbiz.com
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 96
+                    [args] => Array
+                        (
+                            [0] => /home/wwwroot/bizlivechat/cache/compiledtemplates/ccb97260b80de174b48a1b4722fc7d2e.php
+                        )
+
+                    [function] => include
+                )
+
+            [2] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/lib/core/lhcore/lhmodule.php
+                    [line] => 486
+                    [function] => runModule
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [file] => /home/wwwroot/bizlivechat/index.php
+                    [line] => 39
+                    [function] => moduleInit
+                    [class] => erLhcoreClassModule
+                    [type] => ::
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+)
+
